@@ -1,6 +1,6 @@
 # ecommerce_bloc
 
-A new Flutter project.
+A new Flutter project. This project is based on BLOC library for state management to design a full fledged mobile ecommerce application using design pattern concepts . It will give you an overview to write clean codes and use flutter for cross platform apps.
 
 ## Getting Started
 
